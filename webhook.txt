@@ -1,0 +1,6 @@
+
+{
+  "content": "LUX LOGGER",
+  "embeds": nil,
+  "webbhook": ["ENTER WEBHOOK HERE"]
+}

